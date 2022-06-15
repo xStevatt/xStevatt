@@ -1,5 +1,7 @@
 😵‍💫
 
+[My CV](https://github.com/xStevatt/stefano-valloncini-cv/blob/main/CV_two_columns_Valloncini.pdf)
+
 
 <!--
 **xStevatt/xStevatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
