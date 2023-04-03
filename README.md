@@ -1,19 +1,19 @@
-😵‍💫
+# 👋 Hi, I'm Stefano!
 
-[My CV](https://github.com/xStevatt/stefano-valloncini-cv/blob/main/CV_two_columns_Valloncini.pdf)
+I am a dedicated and passionate Software Engineer from Brescia, Italy. I specialize in crafting elegant and efficient solutions that improve the user experience and streamline processes.
 
+🔧 **Languages and Tools:**
+- Python, JavaScript, Java, C++
+- Django, Flask, Node.js, Express
+- React, Angular, Vue.js
+- MySQL, PostgreSQL, MongoDB
+- Git, GitHub, GitLab
 
-<!--
-**xStevatt/xStevatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 **Continuous Learning:**
+I believe that learning is a lifelong journey. I am constantly working to expand my knowledge and skills in software development and related fields.
 
-Here are some ideas to get you started:
+📫 **Get in Touch:**
+Feel free to reach out to me regarding collaboration, job opportunities, or if you just want to chat!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [linkedin.com/in/stefanovalloncini](https://www.linkedin.com/in/stefanovalloncini)
+- Email: [email protected]
