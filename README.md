@@ -32,4 +32,3 @@ I'm a Computer Science and Engineering student passionate about making an impact
 
 - **GitHub**: [xStevatt](https://github.com/xStevatt)
 - **LinkedIn**: [stefanovalloncini](https://linkedin.com/in/stefanovalloncini/)
-- **Email**: stefanovalloncini@protonmail.com
