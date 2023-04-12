@@ -25,9 +25,11 @@ I'm a Computer Science and Engineering student passionate about making an impact
 ## 🌍 Languages Spoken
 
 - **Italian**: Native Speaker, High proficiency
-- **English**: Fluent, High proficiency
+- **English**: Fluent (CAE certificate C1), High proficiency
+- **Others**: I'm a language enthusiast, always learning new programming languages, even though I can be a bit sloppy in some of them! 😅
 
 ## 📬 Get in Touch
 
 - **GitHub**: [xStevatt](https://github.com/xStevatt)
 - **LinkedIn**: [stefanovalloncini](https://linkedin.com/in/stefanovalloncini/)
+- **Email**: stefanovalloncini@protonmail.com
