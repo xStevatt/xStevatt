@@ -1,21 +1,33 @@
-# 👋 Hi, I'm Stefano!
+# Stefano Valloncini 👋
 
-I'm a student from Brescia, Italy, pursuing my degree in Computer Science and Engineering. Passionate about software development and engineering, I'm dedicated to learning new technologies and creating efficient and elegant solutions.
+I'm a Computer Science and Engineering student passionate about making an impact in the field of Artificial Intelligence (AI) and Deep Learning. Through technology, I aim to develop solutions that address global challenges and improve the lives of people around the world.
 
-🔧 **Languages and Tools:**
-- Python, JavaScript, Java, C++
-- Django, Flask, Node.js, Express
-- React, Angular, Vue.js
-- MySQL, PostgreSQL, MongoDB
-- Git, GitHub, GitLab
+## 🌟 Personal Projects
 
-📚 **Projects and Coursework:**
-I enjoy working on both personal and academic projects to expand my skills and apply what I've learned in my computer science and engineering courses.
+- **[JChess](https://github.com/xStevatt/)** (2021): A chess game developed in Java, using MVC architecture.
+- **[Italian Fiscal Code](https://github.com/xStevatt/)** (2020): Java application to calculate Fiscal Code.
+- **[TO-DO List](https://github.com/xStevatt/)** (2019): Website in pure JavaScript as a simple TO-DO list manager.
+- **[scala-json-feed](https://github.com/xStevatt/)** (2017): Scala library for JSON Feed.
 
-📌 **Goals:**
-My main goal is to continuously learn and grow as a computer scientist and engineer while making a positive impact in the tech industry.
+## 🎓 Education
 
-📫 **Get in Touch:**
-Feel free to reach out to me regarding collaboration, internships, or if you just want to chat!
+- **Master Degree in Computer Engineering** | [Università degli Studi di Brescia](https://www.unibs.it/it) | 2023-2025
+- **Bachelor Degree in Computer Engineering** | [Università degli Studi di Brescia](https://www.unibs.it/it) | 2020-2023
 
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/stefanovalloncini)
+## 💻 Technical Skills
+
+- **Languages**: Python, JavaScript, Java, C, C++, Scala
+- **Web**: React, HTML, CSS, Node.js
+- **Data**: SQL, MongoDB, JSON, XML
+- **Tools**: Git, Maven, Docker, Arduino, MATLAB, LaTeX
+- **AI & ML**: Deep Learning, Data Science, Keras, RNN, dl4j/rl4j
+
+## 🌍 Languages Spoken
+
+- **Italian**: Native Speaker, High proficiency
+- **English**: Fluent, High proficiency
+
+## 📬 Get in Touch
+
+- **GitHub**: [xStevatt](https://github.com/xStevatt)
+- **LinkedIn**: [stefanovalloncini](https://linkedin.com/in/stefanovalloncini/)
