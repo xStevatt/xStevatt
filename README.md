@@ -20,7 +20,7 @@ I'm a Computer Science and Engineering student passionate about making an impact
 - **Web**: React, HTML, CSS, Node.js
 - **Data**: SQL, MongoDB, JSON, XML
 - **Tools**: Git, Maven, Docker, Arduino, MATLAB, LaTeX
-- **AI & ML**: Deep Learning, Data Science, Keras, RNN, dl4j/rl4j
+- **AI & ML**: Machine Learning, Data Science, Keras, RNN, dl4j/rl4j
 
 ## 🌍 Languages Spoken
 
