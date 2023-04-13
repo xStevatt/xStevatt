@@ -25,7 +25,7 @@ I'm a Computer Science and Engineering student passionate about making an impact
 ## 🌍 Languages Spoken
 
 - **Italian**: Native Speaker, High proficiency
-- **English**: Fluent (CAE certificate C1), High proficiency
+- **English**: Fluent, High proficiency
 - **Others**: I'm a language enthusiast, always learning new languages, even though I can be a bit sloppy in some of them! 😅
 
 ## 📬 Get in Touch
