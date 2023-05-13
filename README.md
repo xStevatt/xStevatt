@@ -7,7 +7,6 @@ I'm a Computer Science and Engineering student passionate about making an impact
 - **[JChess](https://github.com/xStevatt/)** (2021): A chess game developed in Java, using MVC architecture.
 - **[Italian Fiscal Code](https://github.com/xStevatt/)** (2020): Java application to calculate Fiscal Code.
 - **[TO-DO List](https://github.com/xStevatt/)** (2019): Website in pure JavaScript as a simple TO-DO list manager.
-- **[scala-json-feed](https://github.com/xStevatt/)** (2017): Scala library for JSON Feed.
 
 ## 🎓 Education
 
